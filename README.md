@@ -1,7 +1,7 @@
 # Hover Effect
 The IDS Practicum, at UNI is creating a massive project that will shock the Cedar Valley!
 
-![#DiversityIsOurStrength](C:\Users\Owner\Pictures\new_profiles-02.png)
+![#DiversityIsOurStrength](C:\Users\Owner\Pictures\profile.png)
 
 ## Make sure to check us out on social media platforms
 [Facebook](https://www.facebook.com/unidiversitystrength/)
